@@ -6,7 +6,7 @@ Numbers=[2,5,9]
 Target: 1
 Solution: ((5)*2)-9 = 1
 
-I have implemented a random-restart hill climbing(pg 124) algorithm that attempts to find the expression that is as close as possible to the target using:-
+I have implemented a random-restart hill climbing algorithm that attempts to find the expression that is as close as possible to the target using:-
 
 1) swap(n1,n2) - swaps the position of the number at index n1 with the one at index n2
 2) change(s1,op) - changes the operator at s1 to op
